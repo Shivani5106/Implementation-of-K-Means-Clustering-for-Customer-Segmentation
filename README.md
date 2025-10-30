@@ -9,9 +9,13 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1.Import the necessary packages using import statement.
+
 2.Read the given csv file using read_csv() method and print the number of contents to be displayed using df.head().
+
 3.Import KMeans and use for loop to cluster the data.
+
 4.Predict the cluster and plot data graphs.
+
 5.Print the outputs and end the program.
  
 
@@ -66,13 +70,10 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-
 ### ELBOW METHOD
-
 <img width="1016" height="739" alt="image" src="https://github.com/user-attachments/assets/de2b09a1-eeca-4e9d-8c95-6b49b6854c25" />
 
 ### K-MEANS CLUSTERING
-
 <img width="262" height="102" alt="image" src="https://github.com/user-attachments/assets/0235071b-e7c7-4aa1-897a-51507cf1a311" />
 
 ### Y PREDICTION 
@@ -80,8 +81,6 @@ plt.title("Customer Segments")
 
 ### CUSTOMER SEGMENT
 <img width="880" height="728" alt="image" src="https://github.com/user-attachments/assets/69643430-1558-47e1-8b0c-65f35ccdbf93" />
-
-
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
